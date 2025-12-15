@@ -12,6 +12,7 @@ In the highly competitive music industry, identifying high-potential songs early
 - Size: ~114,000 tracks
 - Features: Technical audio features such as danceability, energy, valence, acousticness, tempo, loudness, and general metadata like genre, key, mode.
 - Target Variable: A new binary variable is_hit was created, where songs with a popularity score > 70 are labeled as Hits (1), and the rest as Non-Hits (0).
+- Data processing steps are included in the notebook, utilizing the dataset from [[Kaggle Link]](https://www.google.com/url?q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fmaharshipandya%2F-spotify-tracks-dataset).
 
 ## Workflow
 1. Data Cleaning & Preprocessing
