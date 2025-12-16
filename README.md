@@ -1,4 +1,11 @@
 # Predictive Analytics for Hit Songs
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+
 This project aims to build Machine Learning models to predict which songs have the potential to become "Hit Songs." By analyzing audio features and metadata from Spotify, this project seeks to assist artists and record labels in planning more effective promotional strategies.
 
 ## About the Project
